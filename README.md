@@ -1,2 +1,2 @@
 # Bluetooth-Robotic-arm
-A robotic car associated with robotic arm which has three degrees of freedom. It can pick light weight objects also. This car is controlled via bluetooth using an android application.
+Made with Arduino micro-controller. A robotic car associated with a robotic arm. The arm has 3 degrees of freedom which can also pick light weight objects. This robotic car and arm are operated with bluetooth with the help of an android application
